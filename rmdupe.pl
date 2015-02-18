@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 use strict;
+#Simple Remove Duplicates from text file, Tested on 500mb file
 ########################
 my $file = 'myfile.txt'; #
 ########################
