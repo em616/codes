@@ -1,12 +1,7 @@
 /*
 
 linux/x86 execve(/bin/dash) 42 bytes
-Author        : _77
-                mem001@live.com, mem003@live.com
-                www.pirate.al , www.flashcrew.in
-Greetz        : mywisdom - Danzel - Wulns~ - IllyrianWarrior- Ace - M4yh3m - Saldeath
-                ev1lut1on - Lekosta - Pretorian - bi0 - Slimshaddy - d3trimentaL
-                CR - Hack-Down - H3ll - d4nte_sA - th3p0wer and all PirateAL friends.
+pirate.al
 PROUD TO BE ALBANIAN!
 Linux bt 3.2.6 #1 SMP Fri Feb 17 10:40:05 EST 2012 i686 GNU/Linux
 
