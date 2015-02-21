@@ -1,4 +1,5 @@
 codes
 =====
-Handy scripts and shitty scripts for time passing ;) 
+Handy and shitty scripts , exploits for time passing ;) 
+
 By me and my team friends :) 
